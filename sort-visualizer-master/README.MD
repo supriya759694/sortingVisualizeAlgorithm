@@ -1,7 +1,7 @@
 
 
 
-#🔹 Frontend Developer Intern (Self-Initiated Internship)
+# Frontend Developer Intern (Self-Initiated Internship)
 # Project: Sorting Algorithm Visualizer
 Tech Stack: HTML, CSS, JavaScript
 Live Demo:  https://sorting-visualize-algorithm.vercel.app/
